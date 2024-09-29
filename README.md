@@ -1,6 +1,3 @@
-以下是更新后的 `README.md` 文件，包含多种动态引入 JavaScript 的方法。
-
-```markdown
 # LinkAware
 
 ## 語言選擇
